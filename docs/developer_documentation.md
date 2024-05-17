@@ -28,7 +28,7 @@ This documentation serves as a detailed guide to the development of Hangman Game
 
 ---
 
-#### 2. Technical Specifications and Design
+## 2. Technical Specifications and Design
 - .NET Core:
   - Entities: Include components like `HangmanWordComponent`, `GuessedLetterComponent`, `HangmanGameStateComponent`.
   - Systems: Contains `HangmanSystem` for handling different functionalities.
@@ -37,7 +37,7 @@ This documentation serves as a detailed guide to the development of Hangman Game
 
 ---
 
-#### 3. Architectural Overview
+## 3. Architectural Overview
 - **3.1. Architectural Diagrams**
 
 
@@ -60,25 +60,25 @@ This documentation serves as a detailed guide to the development of Hangman Game
 
 ---
 
-#### 4. Development Guidelines and Standards
+## 4. Development Guidelines and Standards
 - Architecture Adherence: Follow the specified architectural principles for integration and modifications.
 - Modularity: Ensure code is modular for easy updates and feature additions.
 - Code Standard: Follow C# Coding Conventions to maintain code quality and readability.
 
 ---
 
-#### 5. Testing Framework and Coverage
+## 5. Testing Framework and Coverage
 - **5.1. Testing Strategy Outline**
   - **Unit Testing**: Using NUnit, located in the `tests/` directory.
 
 ---
-#### 6. Versioning Information
+## 6. Versioning Information
 - **Project Version**: 1.0.0
 - **Technology Versions**: .NET Core 3.1
 
 ---
 
-#### 7. Performance Metrics and Optimization
+## 7. Performance Metrics and Optimization
 **Key Metrics**:
 - Game performance (response time)
 - Memory usage
@@ -89,13 +89,13 @@ This documentation serves as a detailed guide to the development of Hangman Game
 
 ---
 
-#### 8. Accessibility Considerations
+## 8. Accessibility Considerations
 - Console-based user interface for easy navigation.
 - Clear and concise prompts for user input.
 
 ---
 
-#### 9. Troubleshooting and FAQs
+## 9. Troubleshooting and FAQs
 - **Q: The game doesn't start?**
   - A: Make sure .NET Core is installed and the project is built successfully.
 - **Q: The game doesn't accept my input?**
@@ -103,19 +103,19 @@ This documentation serves as a detailed guide to the development of Hangman Game
 
 ---
 
-#### 10. Best Practice Recommendations
+## 10. Best Practice Recommendations
 - Keep methods small and focused on a single task.
 - Use meaningful names for variables, methods, and classes.
 
 ---
 
-#### 11. References and Further Reading
+## 11. References and Further Reading
 1. Microsoft, .NET Core Documentation.
 2. Microsoft, C# Programming Guide.
 
 ---
 
-#### 12. Feedback and Updates
+## 12. Feedback and Updates
 Please contribute feedback to improve the project. [Check here](https://github.com/0Sebbe/hangman_ecs) for ongoing updates and project improvements.
 
 ---

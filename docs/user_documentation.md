@@ -1,7 +1,7 @@
-### User Documentation for [Application Name]
+# User Documentation for Hangman Game
 ___
 
-#### Table of Contents
+## Table of Contents
 1. **[Installation Guide](#1-installation-guide)**
 2. **[User Manual](#2-user-manual)**
 3. **[FAQs and Troubleshooting](#3-faqs-and-troubleshooting)**
@@ -9,7 +9,7 @@ ___
 
 ---
 
-#### 1. Installation Guide
+## 1. Installation Guide
 - **Pre-requisite Software**: Ensure .NET Core 3.1 is installed on your system.
 - **Download Application Files**: Download the application files from the GitHub repository and save them in a designated folder on your computer.
 - **Running the Application**: 
@@ -18,7 +18,7 @@ ___
 
 ---
 
-#### 2. User Manual
+## 2. User Manual
 - **Starting the Application**: Run the command `dotnet run` or execute the application executable to begin.
 - **Application Controls**:
   - Navigate through the application using standard keyboard inputs.
@@ -28,7 +28,7 @@ ___
 
 ---
 
-#### 3. FAQs and Troubleshooting
+## 3. FAQs and Troubleshooting
 - **Q: The application won't start. What should I do?**
   - A: Ensure .NET Core 3.1 is installed, and all application files are in their correct locations. Check that the executable file is working if used.
 - **Q: How can I restart the application after an error?**
@@ -38,7 +38,7 @@ ___
 
 ---
 
-#### 4. Contact Information
+## 4. Contact Information
 For additional support, questions, or feedback, please reach out via email. Visit [GitHub Copilot](https://github.com/copilot) to contact us or report issues. We encourage users to get in touch for technical problems or suggestions for improvements.
 
 ---
